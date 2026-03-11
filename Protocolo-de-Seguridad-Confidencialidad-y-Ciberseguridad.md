@@ -2,6 +2,7 @@
 
 
 
+| | |
 |---|---|
 | **Versión** | 1.0 |
 | **Aprobado el** | 15 de marzo de 2026 |
