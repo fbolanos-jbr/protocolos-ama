@@ -9,7 +9,7 @@
 | **Próxima revisión** | 10 de marzo de 2027 |
 | **Aplica a** | Todo el personal, voluntariado, contratistas y socios de Asociación Manos Abiertas |
 
-Este Protocolo establece reglas obligatorias para la protección de la información y la seguridad de los sistemas utilizados por Asociación Manos Abiertas en la operación de sus clínicas de salud sexual y reproductiva (SSR) y servicios relacionados en entornos restrictivos y potencialmente hostiles. Reúne en un solo marco vinculante las buenas prácticas de confidencialidad, ciberseguridad y mitigación de riesgos.
+Este Protocolo establece reglas obligatorias para la protección de la información y la seguridad de los sistemas utilizados por Asociación Manos Abiertas en la operación de sus clínicas y servicios.
 
 ---
 
