@@ -54,7 +54,7 @@ Los siguientes son los formatos estándar para los documentos y registros enumer
 
 ---
 
-## 4. REGISTRO DE RIESGOS (SIMPLIFICADO)
+## 4. REGISTRO DE RIESGOS
 
 | ID de Riesgo | Descripción | Probabilidad (B/M/A) | Impacto (B/M/A) | Mitigación / control | Responsable | Estado (abierto / mitigado / aceptado / cerrado) | Última revisión (fecha) |
 |---------|-------------|--------------------|----------------|----------------------|-------|-----------------------------------------------|----------------------|
